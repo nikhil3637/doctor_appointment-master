@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87627482121",
+    "project_id": "apnaopd-747bf",
+    "storage_bucket": "apnaopd-747bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87627482121:android:22b271fa9f202de36364d8",
+        "android_client_info": {
+          "package_name": "com.apna.opd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjem-fRzjkbd00bYbSQcOnRYI3yiTOStU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
